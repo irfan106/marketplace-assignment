@@ -1,5 +1,3 @@
-// UploadModel.js
-
 import React, { useState } from 'react';
 import { Container, Typography, TextField, Button } from '@mui/material';
 import axios from 'axios';
