@@ -1,5 +1,5 @@
 # AI Models Marketplace
-# Live Link -> [[here](https://irfan-atlan-assignment.netlify.app/)](https://irfan-atlan-assignment.netlify.app/).
+# Live Link -> [https://irfan-atlan-assignment.netlify.app/](https://irfan-atlan-assignment.netlify.app/).
 
 ## Overview
 Welcome to the AI Models Marketplace project! This project aims to provide a platform for showcasing and exploring cutting-edge AI models and LLMs (Large Language Models). The goal is to facilitate innovation and collaboration among developers and organizations in the AI space.
